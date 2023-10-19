@@ -1,2 +1,2 @@
 # Frontend
-learning HTML,CSS,JAVASCRIPT projects and practice 
+learning HTML,CSS,JAVASCRIPT practice 
